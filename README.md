@@ -6,7 +6,7 @@
 
 ## 🎯 Overview
 
-This repository contains our **championship-winning solution** for the **BAREC 2025 Shared Task on Arabic Readability Assessment** by the **MSA Team**. We achieved exceptional performance across multiple tracks, demonstrating the effectiveness of our ensemble-based approach for Arabic text readability assessment.
+This repository contains our **championship-winning solution** for the **BAREC 2025 Shared Task on Arabic Readability Assessment** by the **!MSA Team**. We achieved exceptional performance across multiple tracks, demonstrating the effectiveness of our ensemble-based approach for Arabic text readability assessment.
 
 ### 🏅 Competition Results
 
