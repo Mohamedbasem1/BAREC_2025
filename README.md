@@ -6,18 +6,18 @@
 
 ## 🎯 Overview
 
-This repository contains our **championship-winning solution** for the **BAREC 2025 Shared Task on Arabic Readability Assessment**. We achieved exceptional performance across multiple tracks, demonstrating the effectiveness of our ensemble-based approach for Arabic text readability assessment.
+This repository contains our **championship-winning solution** for the **BAREC 2025 Shared Task on Arabic Readability Assessment** by the **MSA Team**. We achieved exceptional performance across multiple tracks, demonstrating the effectiveness of our ensemble-based approach for Arabic text readability assessment.
 
 ### 🏅 Competition Results
 
 | Track | Task | Ranking | Achievement |
 |-------|------|---------|-------------|
-| **Strict Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://barec.camel-lab.com/sharedtask2025) |
-| **Strict Track** | Document-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://barec.camel-lab.com/sharedtask2025) |
-| **Constrained Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://barec.camel-lab.com/sharedtask2025) |
-| **Constrained Track** | Document-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://barec.camel-lab.com/sharedtask2025) |
-| **Open Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://barec.camel-lab.com/sharedtask2025) |
-| **Open Track** | Document-level Readability Assessment | 🥈 **2nd Place** | [CodaBench](https://barec.camel-lab.com/sharedtask2025) |
+| **Strict Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9083/) |
+| **Strict Track** | Document-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9086/) |
+| **Constrained Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9084/) |
+| **Constrained Track** | Document-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9087/) |
+| **Open Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9085/) |
+| **Open Track** | Document-level Readability Assessment | 🥈 **2nd Place** | [CodaBench](https://www.codabench.org/competitions/9088/) |
 
 ## 🚀 Key Achievements
 
@@ -153,13 +153,23 @@ We welcome contributions to improve Arabic readability assessment. Please feel f
 ## 🔗 Links
 
 - **Competition Website:** [BAREC 2025 Shared Task](https://barec.camel-lab.com/sharedtask2025)
-- **CodaBench Platform:** [Competition Results](https://barec.camel-lab.com/sharedtask2025)
 - **BAREC Corpus:** [Official Dataset](https://barec.camel-lab.com/)
 - **SAMER Corpus:** [Additional Training Data](https://samer.camel-lab.com/)
 
+### 🏆 CodaBench Competition Links
+
+| Track | Task | CodaBench Link |
+|-------|------|----------------|
+| **Strict Track** | Sentence-level | [Competition 9083](https://www.codabench.org/competitions/9083/) |
+| **Strict Track** | Document-level | [Competition 9086](https://www.codabench.org/competitions/9086/) |
+| **Constrained Track** | Sentence-level | [Competition 9084](https://www.codabench.org/competitions/9084/) |
+| **Constrained Track** | Document-level | [Competition 9087](https://www.codabench.org/competitions/9087/) |
+| **Open Track** | Sentence-level | [Competition 9085](https://www.codabench.org/competitions/9085/) |
+| **Open Track** | Document-level | [Competition 9088](https://www.codabench.org/competitions/9088/) |
+
 ## 🏆 Team
 
-This championship solution was developed by our dedicated team of researchers specializing in Arabic NLP and machine learning.
+This championship solution was developed by the **MSA Team** - our dedicated team of researchers specializing in Arabic NLP and machine learning.
 
 ## 📜 License
 
