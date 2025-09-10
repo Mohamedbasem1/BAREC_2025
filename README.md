@@ -2,7 +2,6 @@
 
 [![BAREC 2025](https://img.shields.io/badge/BAREC-2025-gold?style=for-the-badge)](https://barec.camel-lab.com/sharedtask2025)
 [![First Place](https://img.shields.io/badge/🥇-FIRST_PLACE-FFD700?style=for-the-badge)](https://barec.camel-lab.com/sharedtask2025)
-[![Second Place](https://img.shields.io/badge/🥈-SECOND_PLACE-C0C0C0?style=for-the-badge)](https://barec.camel-lab.com/sharedtask2025)
 
 ## 🎯 Overview
 
@@ -17,7 +16,7 @@ This repository contains our **championship-winning solution** for the **BAREC 2
 | **Constrained Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9084/) |
 | **Constrained Track** | Document-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9087/) |
 | **Open Track** | Sentence-level Readability Assessment | 🥇 **1st Place** | [CodaBench](https://www.codabench.org/competitions/9085/) |
-| **Open Track** | Document-level Readability Assessment | 🥈 **2nd Place** | [CodaBench](https://www.codabench.org/competitions/9088/) |
+| **Open Track** | Document-level Readability Assessment | 🥇 **1nd Place** | [CodaBench](https://www.codabench.org/competitions/9088/) |
 
 ## 🚀 Key Achievements
 
@@ -41,7 +40,7 @@ This repository contains our **championship-winning solution** for the **BAREC 2
 ### 🌐 Open Track
 **Constraint:** No restrictions - any publicly available data allowed
 - **Sentence-level Assessment:** 🥇 **Champion**
-- **Document-level Assessment:** 🥈 **Runner-up**
+- **Document-level Assessment:** 🥇 **Champion**
 
 ## 🛠️ Technical Approach
 
