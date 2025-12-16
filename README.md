@@ -20,8 +20,7 @@ This repository contains our **championship-winning solution** for the **BAREC 2
 
 ## 🚀 Key Achievements
 
-- **5 First Place** positions across different tracks and tasks
-- **1 Second Place** in the most competitive Open Track
+- **6 First Place** positions across different tracks and tasks
 - Comprehensive solution covering both sentence and document-level readability assessment
 - State-of-the-art performance in Arabic text readability evaluation
 
